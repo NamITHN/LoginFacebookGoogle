@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186079837940",
+    "firebase_url": "https://demofirebase-65eb1.firebaseio.com",
+    "project_id": "demofirebase-65eb1",
+    "storage_bucket": "demofirebase-65eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186079837940:android:7b7f3fd1a2ef7714a768a1",
+        "android_client_info": {
+          "package_name": "com.namnt.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186079837940-51353p4kiko7q6bip1gr38grom9ojhbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namnt.loginapplication",
+            "certificate_hash": "1a2067cad8c18bac04341ef2c892e0904b556675"
+          }
+        },
+        {
+          "client_id": "186079837940-848j9pj2j2fti5aedbl6mi14ar44k4v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj2C3ni-8ikacYU0FB6v0L5bcnBSKjyY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186079837940-848j9pj2j2fti5aedbl6mi14ar44k4v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

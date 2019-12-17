@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="dangnhapfacebook">Đăng nhập bằng Facebook</string>
+    <string name="dangnhapbanggoogle">Đăng nhập bằng Google</string>
+    <string name="facebook_app_id">275388796311330</string>
+    <string name="fb_login_protocol_scheme">fb275388796311330</string>
+
+</resources>
